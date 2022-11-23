@@ -1,0 +1,16 @@
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\bin\Debug\Farmacia Pequeno Resgisto.exe.config
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\bin\Debug\Farmacia Pequeno Resgisto.exe
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\bin\Debug\Farmacia Pequeno Resgisto.pdb
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.csprojAssemblyReference.cache
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia_Pequeno_Resgisto.LogoFarmacia.resources
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia_Pequeno_Resgisto.Properties.Resources.resources
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.csproj.GenerateResource.cache
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.csproj.CoreCompileInputs.cache
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.exe
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.pdb
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia_Pequeno_Resgisto.frmVendas.resources
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia_Pequeno_Resgisto.RegistoPaciente.resources
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia_Pequeno_Resgisto.Login2.resources
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia_Pequeno_Resgisto.Motivacoes.resources
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.csproj.AssemblyReference.cache
+C:\Users\Chilengue\source\repos\Farmacia Pequeno Resgisto\Farmacia Pequeno Resgisto\obj\Debug\Farmacia Pequeno Resgisto.csproj.SuggestedBindingRedirects.cache
